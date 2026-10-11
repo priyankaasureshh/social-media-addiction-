@@ -84,13 +84,15 @@ The Power BI report can be downloaded from this repository and opened using Powe
 
 ##  Key Areas of Analysis
 
-- Most-used social media platforms.
-- Social media usage across age groups.
-- Age groups with higher addiction levels.
-- Platform-wise usage comparisons.
-- Demographic differences in social media behavior.
-- Patterns and trends in social media usage and addiction.
-- Relationships between usage patterns and addiction indicators.
+- Average daily social media usage across addiction scores.
+- Academic performance impact reported by students.
+- Distribution of academic impact across addiction scores.
+- Most-used social media platforms by student count.
+- Average sleep duration across addiction scores.
+- Academic performance impact and sleep patterns across daily usage categories.
+- Average mental health scores across addiction scores.
+- Student distribution across low, moderate, and high social media usage categories.
+- Relationships between daily usage hours, addiction scores, and student well-being indicators.
 
 ##  Key Insights
 
